@@ -1,0 +1,4 @@
+C:\PRPC-CIDM4390-master\SendGripSMTP\SMTPLib\obj\Debug\netstandard1.5\SMTPLib.csprojAssemblyReference.cache
+C:\PRPC-CIDM4390-master\SendGripSMTP\SMTPLib\obj\Debug\netstandard1.5\SMTPLib.csproj.CoreCompileInputs.cache
+C:\PRPC-CIDM4390-master\SendGripSMTP\SMTPLib\obj\Debug\netstandard1.5\SMTPLib.AssemblyInfoInputs.cache
+C:\PRPC-CIDM4390-master\SendGripSMTP\SMTPLib\obj\Debug\netstandard1.5\SMTPLib.AssemblyInfo.cs
